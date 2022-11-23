@@ -1,1 +1,1 @@
-<h1>Exercicio Java</h1>
+<h1>Exercício Java</h1>
